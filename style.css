@@ -1,0 +1,50 @@
+body {
+    margin: 0px;
+    font-size: 20px;
+    background-color: rgb(168, 245, 245);
+    text-align: center;
+    color: black;
+}
+
+
+
+.campo {
+    background-color: azure;
+    width: 500px;
+    height: 270px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1.5px solid cornflowerblue;
+    border-radius: 30px;
+    position: relative;
+    top: 100px;
+}
+
+#title {
+    margin: 30px;
+}
+
+.resultado {
+    position: relative;
+    top: 100px;
+}
+
+button {
+    width: 150px;
+    height: 40px;
+    margin-top: 20px;
+    border: 1.5px solid cornflowerblue;
+    border-radius: 8px;
+    background-color: darkcyan;
+    color: white;
+    position: relative;
+    top: 100px;
+}
+
+#adulto, #crianca, #duracao {
+    border: 2px solid cornflowerblue;
+    border-radius: 5px;
+    height: 18px;
+}
+
